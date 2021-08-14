@@ -8,7 +8,7 @@ FlyLang是可以并仅可以在在FlyOS上解释并运行的程序设计语言�
 ## 引言
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;步入21世纪，计算机技术的发展开始进入了快速发展阶段，程序设计语言在此时成为了一个热门话题。其中，一些优秀的程序设计语言即使出现时间较早但仍旧热度不减，而一些新式的语言由于无人问津只能被迫停止开发。FlyLang作为一个新的程序设计语言标准，就是要打破这种古董语言独占天下的局面。
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;作为一个新的程序设计语言标准，我们有基于此的实现，如:!fly50w](https://github.com/FuckOS/fly50w)。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;作为一个新的程序设计语言标准，我们有基于此的实现，如:[fly50w](https://github.com/FuckOS/fly50w)。
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;基于FlyLang标准的程序设计语言有如下特征:
 
