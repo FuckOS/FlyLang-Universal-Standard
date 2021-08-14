@@ -20,8 +20,8 @@ FlyLang是可以并仅可以在在FlyOS上解释并运行的程序设计语言�
 ## FlyLang标准正文
 - 1 开始
   - 1.1 作者
-  - 1.2 运行时环境
-  - 1.3 FlyLang IDE
+  - 1.2 ![运行时环境](/1.介绍/1.2运行时环境.md)
+  - 1.3 ![FlyLang IDE](/1.介绍/1.3FlyLang_IDE.md)
   - 1.4 自动化建构工具FlyBuild
   - 1.5 FVM(FlyLang Virtual Machine)
 - 2 关键部分
