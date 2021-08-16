@@ -5,6 +5,10 @@
 FlyLang是可以并仅可以在在FlyOS上解释并运行的程序设计语言标准
 </p>
 
+![](https://shields.io/github/issues/FuckOS/FlyLang-Universal-Standard?color=3a9ac2)
+![](https://shields.io/github/stars/FuckOS/FlyLang-Universal-Standard?style=flat&color=3a9ac2)
+![](https://shields.io/github/last-commit/FuckOS/FlyLang-Universal-Standard?color=3a9ac2)
+
 ## 引言
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;步入21世纪，计算机技术的发展开始进入了快速发展阶段，程序设计语言在此时成为了一个热门话题。其中，一些优秀的程序设计语言即使出现时间较早但仍旧热度不减，而一些新式的语言由于无人问津只能被迫停止开发。FlyLang作为一个新的程序设计语言标准，就是要打破这种古董语言独占天下的局面。
 
