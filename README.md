@@ -48,5 +48,5 @@ FlyLang是可以并仅可以在在FlyOS上解释并运行的程序设计语言�
     - 2.2.4 FlyLang 引用
     - 2.2.5 FlyLang 扩展函数
     - 2.2.6 FlyLang Lambda表达式
-    - 2.2.7 FlyLang 面向错误
+    - 2.2.7 [FlyLang 面向错误](/2.关键部分/2.2进阶/2.2.7FlyLang面向错误.md)
  
