@@ -1,7 +1,7 @@
 # FlyLang Universal Standard
 
-<img src="https://github.com/xingyujie/flyos/blob/master/img/flyos.png?raw=true" align=center/>
 <p width=600px align=center>
+<img align=center src="https://github.com/xingyujie/flyos/blob/master/img/flyos.png?raw=true" align=center/><br/>
 FlyLang是可以并仅可以在在FlyOS上解释并运行的程序设计语言标准
 </p>
 
