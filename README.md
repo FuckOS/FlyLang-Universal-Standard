@@ -31,8 +31,8 @@ FlyLang是可以并仅可以在在FlyOS上解释并运行的程序设计语言�
   - 2.1 基础
     - 2.1.1 FlyLang 语言关键字
     - 2.1.2 FlyLang 标准库
-    - 2.1.3 FlyLang 面向对象
-    - 2.1.4 FlyLang 命名空间、类和方法
+    - 2.1.3 [FlyLang 面向对象](/2.关键部分/2.1基础/2.1.3FlyLang面向对象.md)
+    - 2.1.4 [FlyLang 命名空间、类和方法](/2.关键部分/2.1基础/2.1.4FlyLang命名空间、类和方法.md)
     - 2.1.5 FlyLang I/O
     - 2.1.6 FlyLang 基本类型
     - 2.1.7 FlyLang 数组和结构
