@@ -43,7 +43,7 @@ FlyLang是可以并仅可以在在FlyOS上解释并运行的程序设计语言�
     - 2.1.8 FlyLang Map和List
   - 2.2 进阶
     - 2.2.1 FlyLang.Net 库
-    - 2.2.2 FlyLang 指针
+    - 2.2.2 [FlyLang 指针](/2.关键部分/2.2进阶/2.2.2FlyLang指针.md)
     - 2.2.3 FlyLang IOStream类
     - 2.2.4 FlyLang 引用
     - 2.2.5 FlyLang 扩展函数
